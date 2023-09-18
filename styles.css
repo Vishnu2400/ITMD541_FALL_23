@@ -1,6 +1,23 @@
+body {
+         border-style: solid;
+         margin-left : 70px;
+         margin-right : 70px;
+         padding: 20px;
+         background-color: rgb(233, 233, 241);
+}
+
+#ph{
+    border-radius: 10px;
+    float: right;
+    margin: 10px 120px 160px 90px;
+}
+
 p{
-    color:green;
-    padding-top: 100px;
-    padding-left:150px;
-    
+    color:rgb(12, 11, 12);
+    padding-left:90px;
+    text-align: justify;   
+}
+
+ul{
+    padding-left: 100px;
 }
